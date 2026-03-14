@@ -1,3 +1,5 @@
+
+```java
 public class BinaryTriangle {
     public static void main(String[] args) {
 
@@ -19,3 +21,4 @@ public class BinaryTriangle {
         }
     }
 }
+```java
